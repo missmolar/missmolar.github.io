@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. This is the front page of my website.
+Welcome to my website. I am Shreya. This is the front page of my website.
 
 For more info
 -------------
